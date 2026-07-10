@@ -1,0 +1,11 @@
+{
+  "name": "medusa-fixes",
+  "version": "1.0.0",
+  "description": "Small Node.js and Python scripts that detect and repair common Medusa.js (v2) store problems via the Medusa Admin API.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
